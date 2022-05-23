@@ -1,0 +1,2 @@
+from TestLogger import TestLogger
+from ElasticSearch import ElasticSearchLogger

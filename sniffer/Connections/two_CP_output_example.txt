@@ -1,0 +1,85 @@
+/usr/bin/python2.7 /home/igor/TrialProjects/Sniffer/detect_connection/check_zone_connection.py 1587497 2
+SN reversed:  293918
+Sniffer COM-Port /dev/ttyUSB0 is open
+SN reversed:  293918
+Sniffer COM-Port /dev/ttyUSB1 is open
+SN1 is open True port /dev/ttyUSB0
+SN2 is open True port /dev/ttyUSB1
+Starting...
+Monitoring is starting...
+SN1 is open True port /dev/ttyUSB0
+SN2 is open True port /dev/ttyUSB1
+In thread Sniffer is open True
+Enter config
+Set FILTER 1
+ In thread Sniffer is open True
+Enter config
+Set FILTER 1
+Set FILTER 2
+Set FILTER 2
+Set CHANNEL 868350Set CHANNEL 868850
+
+Exit config
+ Exit config
+868850 ['\r\n', 'CROW-RF_SNIFFER\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$Exiting Configuration Mode\n', 'Sniffer Is Ready\n']
+868350 ['\r\n', 'CROW-RF_SNIFFER\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$Exiting Configuration Mode\n', 'Sniffer Is Ready\n']
+868350 Empty -> PRESS-RELEASE TAMPER
+868850 ['0F 00 293918 FFFFFF 94 3D010001000100 [8773449]\n']
+Broadcast
+868350 ['0F 00 293918 FFFFFF 94 3D010001000100 [8778733]\n', '0A 04 5B2818 293918 94 0000 [8778739]\n', '0A 05 C3811C 293918 9A 0000 [8778766]\n']
+Broadcast
+868850 Empty -> PRESS-RELEASE TAMPER
+868350 ['0A 06 C3811C 293918 9A 0000 [8779933]\n', '0A 07 C3811C 293918 9A 0000 [8780687]\n']
+868850 Empty -> PRESS-RELEASE TAMPER
+868350 ['0A 04 C3811C 293918 9A 0000 [8782332]\n', '0A 05 C3811C 293918 9A 0000 [8783479]\n']
+868850 Empty -> PRESS-RELEASE TAMPER
+868350 ['0A 06 C3811C 293918 9A 0000 [8784777]\n', '0A 07 C3811C 293918 9A 0000 [8785534]\n']
+868850 Empty -> PRESS-RELEASE TAMPER
+868850 Empty -> PRESS-RELEASE TAMPER
+868350 ['0A 04 C3811C 293918 9A 0000 [8788087]\n', '0A 05 C3811C 293918 9A 0000 [8788978]\n']
+868850 Empty -> PRESS-RELEASE TAMPER
+Enter config
+Set FILTER 1
+868350 ['0A 06 C3811C 293918 9A 0000 [8790070]\n', '0A 07 C3811C 293918 9A 0000 [8791000]\n']
+Enter config
+Set FILTER 1
+Set FILTER 2
+Set FILTER 2
+Set CHANNEL 868480
+Set CHANNEL 869070
+Exit config
+Exit config
+868480 ['\r\n', 'CROW-RF_SNIFFER\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$Exiting Configuration Mode\n', 'Sniffer Is Ready\n']
+869070 ['\r\n', 'CROW-RF_SNIFFER\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$Exiting Configuration Mode\n', 'Sniffer Is Ready\n']
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+868480 Empty -> PRESS-RELEASE TAMPER
+869070 Empty -> PRESS-RELEASE TAMPER
+Enter config
+Set FILTER 1
+Set FILTER 2
+Set CHANNEL 868130
+Exit config
+868130 ['\r\n', 'CROW-RF_SNIFFER\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$\r\n', 'OK\r\n', 'TEST$Exiting Configuration Mode\n', 'Sniffer Is Ready\n']
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+868130 Empty -> PRESS-RELEASE TAMPER
+Queue size: 1
+Serial numbers from one sniffer [1583195, 1868227]
+Device SN 1587497 is connected to CP SN [1583195, 1868227]
+
+Process finished with exit code 0

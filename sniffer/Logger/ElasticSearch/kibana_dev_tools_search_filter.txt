@@ -1,0 +1,12 @@
+GET _search?pretty=true&size=4&sort=timestamp:desc
+{
+  "query": {
+    "constant_score": {
+      "filter": {
+        "term": {
+          "from": 6900066
+        }
+      }
+    }
+  }
+}

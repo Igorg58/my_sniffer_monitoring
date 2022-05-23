@@ -1,0 +1,27 @@
+{
+  "elasticsearch": ["http://sniffer0.local:9200"],
+  "timeout_read": 20,
+  "devices_sn":
+    {
+      "16777215": "BROADCAST",
+      "2325608": "CAM IgorG",
+      "2146147": "CAM IgorG2",
+      "1587497": "AIR IgorG",
+      "2171688": "MAG IgorG",
+      "2333670": "SMOKE IgorG",
+      "1583195": "IgorG panel",
+      "2326320": "Tanya panel"
+    },
+  "commands_code":
+    {
+      "94": "WP_RESYNC",
+      "98": "WP_SUPV",
+      "50": "WP_OUTPUTS",
+      "11": "WP_AREA_STATUS",
+      "9A": "WP_IO_STAT",
+      "C4": "WP_DATA_STREAM",
+      "CD": "WP_COMMAND",
+      "E1": "WP_SABOTAGE",
+      "CB": "WP_CROW_BUSS"
+    }
+}
